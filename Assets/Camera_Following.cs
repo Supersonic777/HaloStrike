@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 //written by Maxim Kotlyarenko
-//some cimmit for git. test
+
 public class Camera_Following : MonoBehaviour
 {
     public GameObject player; // тут объект игрока
